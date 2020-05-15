@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "848265824843",
+    "firebase_url": "https://game-station-ba8a3.firebaseio.com",
+    "project_id": "game-station-ba8a3",
+    "storage_bucket": "game-station-ba8a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848265824843:android:becbd4735f6a70ba4d1bce",
+        "android_client_info": {
+          "package_name": "com.rahul.gamestation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848265824843-7v87kfgocn58ss7ki4qb2p0s312rkvmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMoe4_ANk5zoTpiuoPw9f4A4mzi0KE4TM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848265824843-7v87kfgocn58ss7ki4qb2p0s312rkvmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
